@@ -1,0 +1,19 @@
+1.similar 499A Project
+	https://medium.com/@coviu/how-we-used-ai-to-translate-sign-language-in-real-time-782238ed6bf
+2. Pytorch Documentation
+	https://pytorch.org/docs/stable/index.html
+3.FastAi Documentation
+	https://docs.fast.ai/
+4.FastAi git
+	https://github.com/fastai/fastai
+	https://github.com/fastai/fastai_dev/tree/master/dev_nb
+5. Why GPU is essential for deep learning 
+	https://www.quora.com/Do-I-need-a-GPU-to-learn-deep-learning
+6. Google Cloud Platfrom(GCP) vs AWS(amazon) vs Azure(microsoft)
+	https://www.youtube.com/watch?v=M_G8ufE-2BU
+7.Kaggle vs Colab. Free GPU for deep learning...which one is better
+	https://towardsdatascience.com/kaggle-vs-colab-faceoff-which-free-gpu-provider-is-tops-d4f0cd625029
+8. GCP tutorials...
+	https://www.youtube.com/watch?v=4D3X6Xl5c_Y&list=PLIivdWyY5sqKh1gDR0WpP9iIOY00IE0xL
+9. Google Cloud Platform : AI adventures &youtube
+	https://www.youtube.com/watch?v=HcqpanDadyQ&list=PLIivdWyY5sqJxnwJhe3etaK7utrBiPBQ2
